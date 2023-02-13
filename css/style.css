@@ -1,0 +1,32 @@
+/************************************************
+                DEBUG
+************************************************/
+.ms_debug-height {
+    height: 500px;
+}
+.ms_debug-height-3 {
+    height: 300px;
+}
+.ms_debug-bg-green{
+    background-color: green;
+}
+.ms_debug-bg-red{
+    background-color: red;
+}
+.ms_debug-bg-blue{
+    background-color: blue;
+}
+.ms_debug-bg-acqua {
+    background-color:rgb(58, 84, 109) ;
+}
+
+/************************************************
+                MY SECTION
+************************************************/
+.ms_navbar {
+    background-color: rgb(44, 62, 80);
+}
+.ms_text-white {
+    color: white;
+}
+
