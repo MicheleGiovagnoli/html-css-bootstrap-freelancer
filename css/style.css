@@ -1,5 +1,5 @@
 /************************************************
-                DEBUG
+        DEBUG
 ************************************************/
 .ms_debug-height {
     height: 500px;
@@ -9,6 +9,9 @@
 }
 .ms_debug-bg-green{
     background-color: green;
+}
+.ms_debug-bg-skyblue{
+    background-color: rgb(26, 188, 156);
 }
 .ms_debug-bg-red{
     background-color: red;
@@ -21,12 +24,21 @@
 }
 
 /************************************************
-                MY SECTION
+        MY SECTION
 ************************************************/
 .ms_navbar {
     background-color: rgb(44, 62, 80);
 }
 .ms_text-white {
     color: white;
+}
+.ms_bars {
+    width:100px;
+    height: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.fa-star {
+    font-size: 30px;
 }
 
