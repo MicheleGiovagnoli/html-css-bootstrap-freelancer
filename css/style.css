@@ -22,7 +22,9 @@
 .ms_debug-bg-acqua {
     background-color:rgb(58, 84, 109) ;
 }
-
+.ms_debug-bg-acqua-2 {
+    background-color: rgb(44, 62, 80);
+}
 /************************************************
         MY SECTION
 ************************************************/
@@ -40,5 +42,12 @@
 }
 .fa-star {
     font-size: 30px;
+}
+
+.ms_rounded {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: solid 1px white;
 }
 
